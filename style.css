@@ -169,6 +169,7 @@ header {
                     margin-bottom: 25px;
                 }
                 .main-cont .targets-section .card .card-text p {
+                    color: hsla(192, 100%, 9%, 0.5);
                     font-family: 'Open Sans', sans-serif;
                     font-size: 18px;
                 }
